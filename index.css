@@ -1,0 +1,1148 @@
+.main-child {
+  height: 70px;
+  width: 1440px;
+  position: relative;
+  background-color: var(--color-midnightblue-100);
+  display: none;
+  max-width: 100%;
+}
+.logo-jet-1 {
+  height: 39px;
+  width: 81px;
+  position: relative;
+  object-fit: cover;
+}
+.visita-chocolatesjetcom {
+  align-self: stretch;
+  position: relative;
+}
+.visit {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 11px 0px 0px;
+}
+.logo-jet-1-parent {
+  width: 270px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 15px;
+  cursor: pointer;
+  z-index: 2;
+}
+.inicio1 {
+  text-decoration: none;
+  flex: 1;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  z-index: 2;
+}
+.title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs) 0px var(--padding-8xs);
+}
+.content-child {
+  align-self: stretch;
+  height: 2px;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-11xs);
+  gap: 4px;
+}
+.dinmica-de-participacin {
+  text-decoration: none;
+  align-self: stretch;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  z-index: 2;
+}
+.participation {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-9xs) 0px 0px;
+}
+.multimedia1 {
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+  left: 88px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 80px;
+  height: 17px;
+  min-width: 80px;
+  z-index: 2;
+}
+.premios {
+  text-decoration: none;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  width: 59px;
+  height: 17px;
+  min-width: 59px;
+  z-index: 2;
+}
+.multimedia {
+  height: 17px;
+  width: 172px;
+  position: relative;
+}
+.trminos-y-condiciones {
+  text-decoration: none;
+  width: 168px;
+  position: relative;
+  font-weight: 700;
+  color: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.content-parent {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 25px;
+}
+.main-inner {
+  width: 656px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0px 0px var(--padding-8xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: center;
+}
+.main {
+  align-self: stretch;
+  background-color: var(--color-midnightblue-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: center;
+  padding: var(--padding-mini) var(--padding-xl) 16px;
+  box-sizing: border-box;
+  gap: 314px;
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-sm);
+  color: var(--color-white);
+  font-family: var(--font-gotham);
+}
+.clip-path-group {
+  width: 400px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+  z-index: 1;
+}
+.clip-path-group1 {
+  width: 400px;
+  position: relative;
+  max-height: 100%;
+  object-fit: cover;
+  display: none;
+  max-width: 100%;
+  z-index: 2;
+}
+.premio {
+  margin: 0;
+  width: 416px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 2;
+}
+.vector-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.icon {
+  height: 52px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-12xs) 0px 0px;
+  box-sizing: border-box;
+  margin-left: -318px;
+}
+.prize-header {
+  width: 415px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.prize-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl) 0px 21px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.ticket-child {
+  height: 241px;
+  width: 1030px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  border: 3px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+  z-index: 0;
+}
+.blank-line1 {
+  line-height: 5px;
+  font-weight: 900;
+}
+.blank-line {
+  margin: 0;
+}
+.gana-un-tiquete {
+  font-size: var(--font-size-21xl);
+  font-family: var(--font-gotham);
+}
+.ida-y-vuelta {
+  font-family: var(--font-gotham);
+}
+.ida-y-vuelta-a-nivel-nacional1 {
+  font-size: var(--font-size-13xl);
+  color: var(--color-white);
+}
+.gana-un-tiquete-container {
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 2;
+}
+.capa-1-icon {
+  height: 45px;
+  width: 88px;
+  position: absolute;
+  margin: 0 !important;
+  right: -63px;
+  bottom: -9px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 3;
+}
+.description {
+  width: 833px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  max-width: 100%;
+}
+.layer-1-icon {
+  height: 58px;
+  width: 58px;
+  position: absolute;
+  margin: 0 !important;
+  top: 31px;
+  left: 30px;
+  overflow: hidden;
+  flex-shrink: 0;
+  z-index: 2;
+}
+.ticket {
+  align-self: stretch;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  border: 3px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: var(--padding-16xl) var(--padding-xl);
+  position: relative;
+  min-height: 241px;
+  max-width: 100%;
+  z-index: 1;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gold);
+}
+.prize-title-parent {
+  width: 1030px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 27px;
+  max-width: 100%;
+}
+.inner-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl) 13px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.de {
+  font-size: var(--font-size-13xl);
+}
+.mecnica-de {
+  width: 330px;
+  height: 38px;
+  position: relative;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 1;
+}
+.circle-child {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  border-radius: 50%;
+  background-color: var(--color-gold);
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.number {
+  position: absolute;
+  top: 16px;
+  left: 30px;
+  display: inline-block;
+  width: 18px;
+  height: 43px;
+  min-width: 18px;
+  z-index: 3;
+}
+.circle {
+  align-self: stretch;
+  height: 75px;
+  position: relative;
+}
+.circle-container {
+  width: 75px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 91.5px 0px 0px;
+  box-sizing: border-box;
+}
+.checkmark-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 416px;
+  height: 55px;
+  z-index: 1;
+}
+.participacin {
+  margin: 0;
+  position: absolute;
+  top: 0px;
+  left: 1px;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  width: 100%;
+  height: 100%;
+  z-index: 2;
+}
+.participation-title {
+  height: 58px;
+  width: 416px;
+  position: relative;
+  max-width: 100%;
+}
+.participation-title-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.number-value {
+  position: absolute;
+  top: 16px;
+  left: 26px;
+  display: inline-block;
+  width: 24px;
+  height: 43px;
+  min-width: 24px;
+  z-index: 3;
+}
+.number-two {
+  position: absolute;
+  top: 0px;
+  left: 162.4px;
+  width: 75px;
+  height: 75px;
+}
+.ticket-container-child {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 1;
+}
+.el-tiquete-dorado {
+  margin: 0;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.busca-dentro-del-container {
+  align-self: stretch;
+  position: relative;
+  z-index: 2;
+}
+.lamina-1-icon {
+  width: 300.6px;
+  height: 201.4px;
+  position: absolute;
+  margin: 0 !important;
+  bottom: 140.8px;
+  left: 49.4px;
+  object-fit: contain;
+  z-index: 2;
+}
+.ticket-container {
+  position: absolute;
+  top: 35.7px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 69.3px var(--padding-16xl) 382px;
+  box-sizing: border-box;
+  min-height: 503px;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gold);
+}
+.step-two {
+  width: 400.9px;
+  height: 538.7px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-midnightblue-100);
+}
+.frame-parent {
+  width: 579.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 33.5px;
+  max-width: 100%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.step-one {
+  flex: 1;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: space-between;
+  max-width: 100%;
+  gap: 20px;
+}
+.steps {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 0px var(--padding-12xs);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-midnightblue-100);
+}
+.mechanics-header {
+  width: 742.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 6px;
+  max-width: 100%;
+}
+.number-three {
+  position: absolute;
+  top: 0px;
+  left: 412.1px;
+  width: 75px;
+  height: 75px;
+}
+.blank-line2 {
+  margin: 0;
+  font-size: var(--font-size-xl);
+}
+.escrbenos-al-correo {
+  margin: 0;
+  color: var(--color-white);
+}
+.eres-ganador-escrbenos-container {
+  width: 302px;
+  position: relative;
+  display: inline-block;
+  max-height: 108px;
+  word-break: break-word;
+  z-index: 2;
+}
+.email {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 245px 0px 241px;
+}
+.avion-smart-1-icon {
+  height: 176.8px;
+  width: 300.8px;
+  position: absolute;
+  margin: 0 !important;
+  right: 0.2px;
+  bottom: -147.8px;
+  object-fit: contain;
+  z-index: 2;
+}
+.indicando-el-cdigo {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 22.67px;
+  font-weight: 400;
+  font-family: inherit;
+  white-space: pre-wrap;
+  display: inline-block;
+  min-height: 144px;
+  z-index: 3;
+}
+.code {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.winner {
+  position: absolute;
+  top: 33.9px;
+  left: 0px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 59.1px 58px 176.9px;
+  box-sizing: border-box;
+  gap: 14px;
+  max-width: 100%;
+  font-size: var(--font-size-13xl);
+  color: var(--color-gold);
+}
+.step-three {
+  align-self: stretch;
+  height: 535.9px;
+  position: relative;
+  max-width: 100%;
+  font-size: var(--font-size-17xl);
+  color: var(--color-midnightblue-100);
+}
+.mechanics-content {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 28.3px;
+  max-width: 100%;
+}
+.terms-link-child {
+  height: 57px;
+  width: 458px;
+  position: relative;
+  box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--color-midnightblue-100);
+  display: none;
+  max-width: 100%;
+}
+.conoce-aqu-los {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  z-index: 2;
+}
+.frame-child {
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  z-index: 2;
+}
+.link-content-inner {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px var(--padding-11xs);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.link-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px var(--padding-11xs);
+  box-sizing: border-box;
+  gap: 2px;
+  max-width: 100%;
+}
+.terms-link {
+  flex: 1;
+  box-shadow: 2px 3px 15px rgba(0, 0, 0, 0.25);
+  border-radius: var(--br-mini);
+  background-color: var(--color-midnightblue-100);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-mini) 27px 14px;
+  box-sizing: border-box;
+  max-width: 100%;
+  z-index: 1;
+}
+.terms-container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 225px 0px 221px;
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+}
+.mechanics-container {
+  width: 904.5px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 70.6px;
+  max-width: 100%;
+}
+.mechanics {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl) 0px 25px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.products-child {
+  width: 1240px;
+  height: 354px;
+  position: relative;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  border: 3px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  display: none;
+  max-width: 100%;
+}
+.productos-que-participan-container {
+  height: 38px;
+  flex: 1;
+  position: relative;
+  display: inline-block;
+  max-width: 100%;
+  z-index: 3;
+}
+.product-title {
+  width: 607px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 0px 6px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.en-la-promocin {
+  margin: 0;
+  width: 490px;
+  position: relative;
+  font-size: inherit;
+  font-weight: 400;
+  font-family: inherit;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+  z-index: 4;
+}
+.promotion {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-end;
+  max-width: 100%;
+  font-size: var(--font-size-29xl);
+  color: var(--color-white);
+}
+.ene25-caja-carton-plegadiza-re-icon {
+  height: 200px;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  z-index: 3;
+}
+.box {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0px 64px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.products {
+  align-self: stretch;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-midnightblue-200);
+  border: 3px solid var(--color-cornflowerblue);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 26px 265px 18px 266px;
+  max-width: 100%;
+  z-index: 1;
+}
+.container {
+  width: 1240px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 96px;
+  max-width: 100%;
+}
+.wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0px var(--padding-xl) 32px;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.image-1-icon {
+  margin-left: -392px;
+  width: 2224px;
+  height: 216px;
+  position: relative;
+  object-fit: cover;
+  max-width: 155%;
+  z-index: 1;
+}
+.fondo-largo-cielo-2-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.bannerjetdejetdesk-ladingsinfo-icon {
+  position: absolute;
+  top: 70px;
+  left: 0px;
+  width: 1440px;
+  height: 520px;
+  object-fit: cover;
+  z-index: 2;
+}
+.banner-child {
+  position: absolute;
+  top: 1310.8px;
+  left: 269.4px;
+  width: 400.9px;
+  height: 501.7px;
+  z-index: 1;
+}
+.compra-la-chocolatina-container {
+  position: absolute;
+  top: 59.5px;
+  left: 116px;
+  z-index: 2;
+}
+.frame-item {
+  position: absolute;
+  top: 164px;
+  left: 99.95px;
+  filter: blur(10px);
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 329.5px;
+  height: 106.5px;
+  transform: rotate(12.1deg);
+  transform-origin: 0 0;
+  mix-blend-mode: multiply;
+}
+.ene25-dummie-jet-leche-envoltu-icon {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+  z-index: 1;
+}
+.compra-la-chocolatina-marcada-parent {
+  position: absolute;
+  top: 1319px;
+  left: 227px;
+  width: 486.9px;
+  height: 486.9px;
+  z-index: 4;
+}
+.ene25-dummie-jet-leche-envoltu-icon1 {
+  position: absolute;
+  top: 2660px;
+  left: 119px;
+  width: 344.6px;
+  height: 344.6px;
+  object-fit: contain;
+  z-index: 2;
+}
+.ene25-caja-carton-plegadiza-re-icon1 {
+  position: absolute;
+  top: 2731px;
+  left: 677px;
+  width: 294px;
+  height: 238px;
+  object-fit: cover;
+  z-index: 2;
+}
+.ene25-caja-carton-plegadiza-re-icon2 {
+  position: absolute;
+  top: 2703px;
+  left: 965px;
+  width: 347px;
+  height: 279px;
+  object-fit: cover;
+  z-index: 3;
+}
+.banner-item {
+  position: absolute;
+  top: 3099px;
+  left: 309px;
+  width: 821.1px;
+  height: 424.2px;
+  object-fit: cover;
+  z-index: 1;
+}
+.banner {
+  width: 100%;
+  height: 3619px;
+  position: absolute;
+  margin: 0 !important;
+  top: 0px;
+  right: 0px;
+  left: 0px;
+  text-align: center;
+  font-size: var(--font-size-5xl);
+  color: var(--color-gold);
+  font-family: var(--font-gotham);
+}
+.inicio {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 633px;
+  line-height: normal;
+  letter-spacing: normal;
+  text-align: center;
+  font-size: var(--font-size-21xl);
+  color: var(--color-gold);
+  font-family: var(--font-gotham);
+}
+
+@media screen and (max-width: 1200px) {
+  .main {
+    gap: 157px;
+  }
+
+  .products {
+    padding-left: 133px;
+    padding-right: 132px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .premio {
+    font-size: var(--font-size-19xl);
+  }
+
+  .gana-un-tiquete-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .mecnica-de {
+    font-size: var(--font-size-7xl);
+  }
+
+  .number {
+    font-size: var(--font-size-10xl);
+  }
+
+  .participacin {
+    font-size: var(--font-size-19xl);
+  }
+
+  .number-value {
+    font-size: var(--font-size-10xl);
+  }
+
+  .email {
+    padding-left: 120px;
+    padding-right: 122px;
+    box-sizing: border-box;
+  }
+
+  .winner {
+    padding-left: var(--padding-10xl);
+    padding-right: var(--padding-10xl);
+    box-sizing: border-box;
+  }
+
+  .terms-container {
+    padding-left: 110px;
+    padding-right: 112px;
+    box-sizing: border-box;
+  }
+
+  .mechanics-container {
+    gap: 35px;
+  }
+
+  .productos-que-participan-container {
+    font-size: var(--font-size-7xl);
+  }
+
+  .en-la-promocin {
+    font-size: var(--font-size-19xl);
+  }
+}
+@media screen and (max-width: 750px) {
+  .main {
+    gap: 78px;
+  }
+
+  .frame-parent {
+    gap: 17px;
+  }
+
+  .step-one {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .products {
+    padding-left: var(--padding-47xl);
+    padding-right: var(--padding-47xl);
+    box-sizing: border-box;
+  }
+
+  .container {
+    gap: 48px;
+  }
+
+  .inicio {
+    gap: 316px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .main {
+    gap: 39px;
+  }
+
+  .premio {
+    font-size: var(--font-size-10xl);
+  }
+
+  .gana-un-tiquete-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .mecnica-de {
+    font-size: var(--font-size-lgi);
+  }
+
+  .number {
+    font-size: var(--font-size-3xl);
+  }
+
+  .participacin {
+    font-size: var(--font-size-10xl);
+  }
+
+  .number-value {
+    font-size: var(--font-size-3xl);
+  }
+
+  .busca-dentro-del-container {
+    font-size: var(--font-size-base);
+  }
+
+  .eres-ganador-escrbenos-container {
+    font-size: var(--font-size-base);
+  }
+
+  .email {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .indicando-el-cdigo {
+    font-size: var(--font-size-base);
+  }
+
+  .conoce-aqu-los {
+    font-size: var(--font-size-base);
+  }
+
+  .terms-container {
+    padding-left: 55px;
+    padding-right: 56px;
+    box-sizing: border-box;
+  }
+
+  .mechanics-container {
+    gap: 18px;
+  }
+
+  .productos-que-participan-container {
+    font-size: var(--font-size-lgi);
+  }
+
+  .en-la-promocin {
+    font-size: var(--font-size-10xl);
+  }
+
+  .box {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .products {
+    padding-left: var(--padding-xl);
+    padding-right: var(--padding-xl);
+    box-sizing: border-box;
+  }
+
+  .container {
+    gap: 24px;
+  }
+
+  .compra-la-chocolatina-container {
+    font-size: var(--font-size-base);
+  }
+
+  .inicio {
+    gap: 158px;
+  }
+}
